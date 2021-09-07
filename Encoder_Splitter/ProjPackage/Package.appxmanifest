@@ -9,7 +9,7 @@
   <Identity
     Name="b0da47f3-b807-4534-80bf-93bb69a8f147"
     Publisher="CN=sambr"
-    Version="1.0.0.0" />
+    Version="1.0.1.0" />
 
   <Properties>
     <DisplayName>ProjPackage</DisplayName>

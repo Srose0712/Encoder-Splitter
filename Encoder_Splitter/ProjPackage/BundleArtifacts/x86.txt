@@ -1,0 +1,2 @@
+MainPackage=C:\Users\sambr\source\repos\Encoder_Splitter\ProjPackage\bin\x86\Release\ProjPackage_1.0.1.0_x86.msix
+SymbolPackage=C:\Users\sambr\source\repos\Encoder_Splitter\ProjPackage\obj\x86\Release\Symbols\ProjPackage_1.0.1.0_x86.appxsym
