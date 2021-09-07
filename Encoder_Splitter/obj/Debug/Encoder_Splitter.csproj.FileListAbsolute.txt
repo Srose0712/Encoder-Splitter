@@ -1,0 +1,10 @@
+C:\Users\sambr\source\repos\Encoder_Splitter\obj\Debug\Encoder_Splitter.csproj.AssemblyReference.cache
+C:\Users\sambr\source\repos\Encoder_Splitter\obj\Debug\Encoder_Splitter.Form1.resources
+C:\Users\sambr\source\repos\Encoder_Splitter\obj\Debug\Encoder_Splitter.csproj.GenerateResource.cache
+C:\Users\sambr\source\repos\Encoder_Splitter\bin\Debug\Encoder_Splitter.exe.config
+C:\Users\sambr\source\repos\Encoder_Splitter\bin\Debug\Encoder_Splitter.exe
+C:\Users\sambr\source\repos\Encoder_Splitter\bin\Debug\Encoder_Splitter.pdb
+C:\Users\sambr\source\repos\Encoder_Splitter\obj\Debug\Encoder_Splitter.Properties.Resources.resources
+C:\Users\sambr\source\repos\Encoder_Splitter\obj\Debug\Encoder_Splitter.csproj.CoreCompileInputs.cache
+C:\Users\sambr\source\repos\Encoder_Splitter\obj\Debug\Encoder_Splitter.exe
+C:\Users\sambr\source\repos\Encoder_Splitter\obj\Debug\Encoder_Splitter.pdb

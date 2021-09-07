@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NwpUy0D5QUlnVEmuxZmkjuDUx9MAwuMRQOeldPJJkWCMiWIYqAbSPjCQgfsh9qSj8gPrVxRkMuXE9agyRozBFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sambr\\source\\repos\\Encoder_Splitter\\ProjPackage\\ProjPackage.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.19041.8\\microsoft.windows.sdk.buildtools.10.0.19041.8.nupkg.sha512"
+  ],
+  "logs": []
+}

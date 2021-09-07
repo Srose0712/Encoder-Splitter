@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://github.com/Srose0712/Encoder-Splitter.git/ProjPackage.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="b0da47f3-b807-4534-80bf-93bb69a8f147"
+		Version="1.0.0.0"
+		Publisher="CN=sambr"
+		Uri="https://github.com/Srose0712/Encoder-Splitter.git/ProjPackage_1.0.0.0_Debug_Test/ProjPackage_1.0.0.0_AnyCPU_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
